@@ -30,13 +30,27 @@ En este estamos estableciendo la estructura de una base de datos para almacenar 
 
 
 
-![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/a1af20f2-441c-4386-b1a7-d0fbabe77f06)
-
-
-
-
 
 #Creación del servicios
 En este caso, el servicio se encargará de manejar las operaciones relacionadas con los libros, actuando como un intermediario entre el controlador (que maneja las solicitudes HTTP) y el repositorio (que maneja los datos).
+
+![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/09653303-e7a0-4822-8b6c-599d6ec02a24)
+
+![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/a0590a09-4528-432d-b50e-12505b0fd301)
+
+#Ejecucion de Web-API
+![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/30e8477a-1dc5-4ca0-97ef-369783fb513d)
+
+#Visualizacion en Postaman
+
+![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/5e5db5bf-6cab-4383-9a4c-48b609b14a2b)
+
+Tambien se puede buscar por el id ejemplo:
+
+![image](https://github.com/Danielpalma54/Demo-LibroAPI/assets/147771801/2d9087f1-162b-4630-b12a-4d62b8839248)
+
+
+
+
 
 
