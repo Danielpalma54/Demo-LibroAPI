@@ -30,7 +30,6 @@ En este estamos estableciendo la estructura de una base de datos para almacenar 
 
 
 
-
 #Creación del servicios
 En este caso, el servicio se encargará de manejar las operaciones relacionadas con los libros, actuando como un intermediario entre el controlador (que maneja las solicitudes HTTP) y el repositorio (que maneja los datos).
 
